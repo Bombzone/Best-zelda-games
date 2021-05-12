@@ -193,5 +193,15 @@ h6 {
 }
 .awakening > span > span {
     margin-right: 0%;
-    font-family: "Sherwood";
+    display:flex;
+    height: 40pt;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30pt;
+}
+.awakening > span > span > span {
+    display: flex;
+    align-self: center;
+    margin-right: 0%;
+    font-size: 35pt;
+    margin-top: 10px;
 }
